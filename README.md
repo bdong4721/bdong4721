@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jay Oh
-- 👀 I’m interested in data analytic and algorithm
+- 👀 I’m interested in data analytic and finance engineering
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on Kaggle
 - 📫 How to reach me ...
